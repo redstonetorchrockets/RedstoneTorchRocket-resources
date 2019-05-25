@@ -1,0 +1,14 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "RedstoneTorchRocket",
+        "description": "he RedstoneTorchRockets mod adds a redstonetorchrocket. And I think it is impossible to live without one!!",
+        "uuid": "cf85b126-7ef5-11e9-8f9e-2a86e4085a59",
+        "version": [0, 0, 1]
+    },
+    "modules": [{
+        "type": "resources",
+        "uuid": "d5dc7294-7ef5-11e9-8f9e-2a86e4085a59",
+        "version": [0, 0, 1]
+    }]
+}
