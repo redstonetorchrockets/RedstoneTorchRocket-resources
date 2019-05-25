@@ -4,13 +4,13 @@
     "padding": 8,
     "num_mip_levels": 4,
     "texture_data": {
-      "amethyst_ore": {
-        "textures": [
-          "textures/blocks/redstone_torch_rocket_block"
-        ]
-    
-      
-     
+        "redstone_torch_rocket_block": {
+            "textures": [
+                "textures/blocks/redstone_torch_rocket_block"
+            ]
+
+
+
+        }
     }
-  }
 }
