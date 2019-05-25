@@ -1,1 +1,2 @@
-﻿item.rtr:redstone_torch_rocket.name=§cRedstoneTorchRocket§r
+﻿item.rtr:redstone_torch_rocket.name=RedstoneTorchRocket
+tile.rtr:rocket_launcher.name=RocketLauncher
