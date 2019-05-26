@@ -1,2 +1,3 @@
 ﻿item.rtr:redstone_torch_rocket.name=RedstoneTorchRocket
 tile.rtr:rocket_launcher.name=RocketLauncher
+item.spawn_egg.entity.rtr:rocket.name=Spawn RedstoneTorchRocket
