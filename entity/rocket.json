@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "rtr:rocket",
+			"spawn_egg": {
+				"base_color": "#ccd3d8",
+				"overlay_color": "#282c2e"
+			},
+			"render_controllers": [
+				"controller.render.rocket"
+			],
+			"geometry": {
+				"default": "geometry.rocket"
+			},
+			"textures": {
+				"default": "textures/entity/rocket"
+			},
+			"materials": {
+				"default": "entity"
+			}
+			
+		}
+	}
+}
