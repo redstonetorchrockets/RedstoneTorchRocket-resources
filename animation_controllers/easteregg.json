@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.easteregg.always": {
+			"states": {
+				"default": {
+					"animations": ["new"],
+						
+					"particle_effects": [
+					{"effect": "smoketrail"},
+					{"effect": "appear"}
+					]
+					
+					
+				}
+			}
+		}
+	}
+}

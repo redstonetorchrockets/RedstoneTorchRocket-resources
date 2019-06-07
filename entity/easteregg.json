@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "rtr:easteregg",
+			"spawn_egg": {
+				"base_color": "#683b3b",
+				"overlay_color": "#f92a2a"
+			},
+			"render_controllers": [
+				"controller.render.easteregg"
+			],
+			"geometry": {
+				"default": "geometry.easteregg"
+			},
+			"textures": {
+				"default": "textures/entity/easteregg"
+			},
+			"materials": {
+				"default": "entity"
+			},
+			"animations":{
+				"particles":"animation.easteregg.particles"
+			},
+			"animation_controllers": [
+				{
+					"always": "controller.animation.easteregg.always"
+				}
+			],
+			"particle_effects": {
+				"smoketrail": "rtr:smoketrail",
+				"appear": "rtr:appear"
+			}
+		}
+	}
+}

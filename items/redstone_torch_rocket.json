@@ -8,6 +8,7 @@
 
         "components": {
             "minecraft:icon": "redstone_torch_rocket"
-        }
+           
+        }   
     }
 }
