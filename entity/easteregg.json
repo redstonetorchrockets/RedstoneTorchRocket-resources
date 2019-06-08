@@ -29,7 +29,7 @@
 			],
 			"particle_effects": {
 				"smoketrail": "rtr:smoketrail",
-				"appear": "rtr:appear"
+				"test": "rtr:r"
 			}
 		}
 	}

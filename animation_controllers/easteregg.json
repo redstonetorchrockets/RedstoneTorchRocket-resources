@@ -8,7 +8,8 @@
 						
 					"particle_effects": [
 					{"effect": "smoketrail"},
-					{"effect": "appear"}
+					{"effect": "test"}
+					
 					]
 					
 					
