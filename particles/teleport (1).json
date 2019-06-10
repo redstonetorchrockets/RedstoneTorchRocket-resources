@@ -23,7 +23,9 @@
 			"minecraft:emitter_lifetime_once": {
 				"active_time": 5
 			},
-			"minecraft:emitter_shape_entity_aabb": {
+			"minecraft:emitter_shape_sphere": {
+				"radius": 0.3,
+				"surface_only": true,
 				"direction": "outwards"
 			},
 			"minecraft:particle_lifetime_expression": {

@@ -17,8 +17,8 @@
 				"spawn_rate": 15,
 				"max_particles": 1000
 			},
-			"minecraft:emitter_lifetime_looping": {
-				"active_time": 1
+			"minecraft:emitter_lifetime_once": {
+				"active_time": 30
 			},
 			"minecraft:emitter_shape_point": {
 				"direction": [0, -1, 0]
@@ -43,12 +43,7 @@
 						"stretch_to_lifetime": true
 					}
 				}
-			},
-			"minecraft:particle_motion_collision": {
-				"coefficient_of_restitution": 0.5,
-				"collision_drag": 4,
-				"collision_radius": 0.1
-			  }
+			}
 		}
 	}
 }

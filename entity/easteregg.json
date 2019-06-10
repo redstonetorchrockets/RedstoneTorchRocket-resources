@@ -20,16 +20,18 @@
 				"default": "entity"
 			},
 			"animations":{
-				"particles":"animation.easteregg.particles"
+				"flight":"animation.easteregg.flight"
+			
 			},
 			"animation_controllers": [
 				{
 					"always": "controller.animation.easteregg.always"
+					
 				}
 			],
 			"particle_effects": {
 				"smoketrail": "rtr:smoketrail",
-				"test": "rtr:teleport"
+				"teleport": "rtr:teleport"
 			}
 		}
 	}

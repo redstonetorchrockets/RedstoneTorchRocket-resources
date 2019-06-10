@@ -4,15 +4,12 @@
 		"controller.animation.easteregg.always": {
 			"states": {
 				"default": {
-					"animations": ["new"],
+					"animations": ["flight"],
 						
 					"particle_effects": [
-					{"effect": "smoketrail"},
-					{"effect": "test"}
-					
-					]
-					
-					
+						{"effect": "smoketrail"}
+						
+					]	
 				}
 			}
 		}
