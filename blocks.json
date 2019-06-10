@@ -1,7 +1,0 @@
-{
-    "format_version": [1, 1, 0],
-    "rtr:rocket_launcher": {
-        "textures": "rocket_launcher",
-        "sound": "stone"
-    }
-}
