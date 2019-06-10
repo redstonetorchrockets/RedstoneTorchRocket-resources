@@ -1,0 +1,12 @@
+{
+    "mob.easteregg.minirocket": {
+      "category": "neutral",
+      "min_distance": 10000000.0,
+      "sounds": [
+        {
+          "name": "sounds/mob/easteregg/minirocket",
+          "load_on_low_memory": true
+        }
+      ]
+    }
+}

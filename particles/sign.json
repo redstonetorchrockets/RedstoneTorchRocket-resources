@@ -5,7 +5,7 @@
 			"identifier": "rtr:sign",
 			"basic_render_parameters": {
 				"material": "particles_alpha",
-				"texture": "textures/particle/redstonetorchrocketsign"
+				"texture": "textures/particle/sign"
 			}
 		},
 		"components": {
