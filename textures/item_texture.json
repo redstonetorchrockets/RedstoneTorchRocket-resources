@@ -4,8 +4,6 @@
     "texture_data": {
         "redstone_torch_rocket": {
             "textures": "textures/items/redstone_torch_rocket"
+          }
         }
-      
-        
-    }
 }
